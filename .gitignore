@@ -2,3 +2,4 @@
 *.xwam
 .ipynb_checkpoints
 data/**
+.env*
